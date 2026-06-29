@@ -1,4 +1,4 @@
-# meshtastic-android (v4 fork)
+# meshtastic-android (SELFCIUS fork)
 
 > This is a fork of `meshtastic/Meshtastic-Android` on the `selfcius/main` branch.
 > When merging upstream releases, consult the V4 Modifications section
